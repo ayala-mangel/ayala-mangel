@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 
 # Let's Connect!
 
-[(https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayala-kirshboim/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayala-kirshboim/)
+
+
 
 ## Languages and Tools
+
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,mongodb,mysql,html,css,sass,vscode,wordpress,figma,postman,github)](https://skillicons.dev)
