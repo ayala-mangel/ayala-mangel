@@ -2,7 +2,8 @@
 
 **Full-Stack Developer**
 
-<img src="(https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif)" width="400">
+
+<img src="https://user-images.githubusercontent.com/74038190/216655832-f5fe3f6c-6581-4c2d-8203-04d31a574c02.gif" width="160" />
 
 
 
