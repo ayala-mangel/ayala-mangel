@@ -3,7 +3,6 @@
 **Full-Stack Developer**
 
 <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
-<br><br>
 
 
 - 🔭 I’m currently working on my final project
