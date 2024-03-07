@@ -2,7 +2,8 @@
 
 **Full-Stack Developer**
 
-<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
+<img src="(https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif)" width="400">
+
 
 
 - 🔭 I’m currently working on my final project
