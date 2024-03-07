@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ayala Kirshboim
+# Hi there 👋 I'm Ayala Kirshboim
 
 Full-Stack Developer
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for my first job
 
 
-# Let's Connect!
+## Let's Connect!
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayala-kirshboim/)
 
